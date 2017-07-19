@@ -1,4 +1,5 @@
 #Fur Elise by Beethoven played with a sampled Musical Box voice, by Robin Newman June 2016
+#https://gist.github.com/rbnpi/d1942f3a78ec21cfdd6fa7f4880f18c2
 #array to hold note info for range 52 to 103. Each entry shows three items:
 #note value, offset of sample to use in sample folder and rpitch value to use with the sample
 #I recorded 12 samples from a musical box played slowly, and separated them in Audacity
