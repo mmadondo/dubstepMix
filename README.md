@@ -1,2 +1,3 @@
 # dubstepMix
-Short dubstep mix created using Sonic Pi
+Short dubstep music collection
+Created with :sparkling_heart: using Sonic Pi
